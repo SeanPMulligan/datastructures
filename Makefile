@@ -1,6 +1,6 @@
 build:
 	g++ -w -std=c++14 \
-	./data-structures.cpp \
+	./*.cpp \
 	-o bin/data-structure-examples \
 
 clean:
